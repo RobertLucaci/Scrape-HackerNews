@@ -8,7 +8,7 @@ Sounds pretty good, right!? Let’s make our life easier!
 # How can you run it?
 You should copy the **scrapeHN.py** file into your local computer.
 Open it with your Text Editor or IDE and install all the necessary libraries.
-Know to scrape on Hacker News write in your terminal: 
+Now to scrape on Hacker News write in your terminal: 
 
 **python3 scrapeHN.py**
 
