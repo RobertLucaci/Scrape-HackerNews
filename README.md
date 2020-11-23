@@ -12,4 +12,4 @@ Now to scrape on Hacker News write in your terminal:
 
 **python3 scrapeHN.py**
 
-The only thing you have to do know is to write the number of pages you want to scrape.
+The only thing you have to do now is to write the number of pages you want to scrape.
